@@ -12,10 +12,10 @@ html,body{font-family: sans-serif;}
     overflow: hidden;
     object-fit: cover;
     transition: all;
-    transition-duration: 500ms;
+    transition-duration: 1600ms;
 }
 
 .image:hover {
-    transform: rotate(1turn);
-    scale: 1.8;
+    transform: rotate(4turn);
+    scale: 1.4;
 }
