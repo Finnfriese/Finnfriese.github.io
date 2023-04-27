@@ -16,6 +16,6 @@ html,body{font-family: sans-serif;}
 }
 
 .image:hover {
-    transform: rotate(1turn);
-    scale: 1.3;
+    transform: rotate(4turn);
+    scale: 1.8;
 }
