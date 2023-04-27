@@ -1,6 +1,6 @@
-html,body{font-family:sans-serif ;}
+html,body{font-family:sans-serif; color: blue;}
 
-.container{
+.container{Fra
     max-width: 400px;
     margin: 0 auto;
 }
