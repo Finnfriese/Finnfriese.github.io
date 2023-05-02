@@ -17,5 +17,5 @@ html,body{font-family:sans-serif; color: black
 }
 
 .image:hover {
-    transform: rotate(16turn);
+    transform: rotate(2turn);
     scale: 1.3;
