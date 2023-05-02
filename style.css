@@ -13,9 +13,9 @@ html,body{font-family:sans-serif; color: black
     overflow: hidden;
     object-fit: cover;
     transition: all;
-    transition-duration: 80ms;
+    transition-duration: 200ms;
 }
 
 .image:hover {
-    transform: rotate(132turn);
-    scale: 1.160;
+    transform: rotate(16turn);
+    scale: 1.3;
